@@ -18,11 +18,13 @@ Developed the **Rabbit Bill Payment Gateway** application using **Flutter**. The
 
 ## Screenshots
 Since the company can't disclose the actual API, I created my own API using Python to handle the configuration.<br>
-<dd> 1.App ID and App Secret
+
+1.App ID and App Secret
    
 <img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/login.png?raw=true" alt="login" width="400"/>
 
 2. Home Page
+   
 <img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/home.png?raw=true" alt="homepage" width="400"/>
 
 3. Input Number Page
