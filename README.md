@@ -15,3 +15,24 @@ Developed the **Rabbit Bill Payment Gateway** application using **Flutter**. The
 - 🌐 **API Integration**: Fetches data from backend APIs for bill information.
 - 📱 **Cross-platform support**: Android and iOS devices.
 - 🔄 **JavaScript to Dart Conversion**: JavaScript code was converted to Dart
+
+
+## Installation
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd Rabbit-Bill-Payment-Gateway
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+   ```bash
+   flutter run
+
