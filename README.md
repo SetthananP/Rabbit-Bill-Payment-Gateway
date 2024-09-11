@@ -19,29 +19,29 @@ Developed the **Rabbit Bill Payment Gateway** application using **Flutter**. The
 ## Screenshots
 Since the company can't disclose the actual API, I created my own API using Python to handle the configuration.<br>
 
-1.App ID and App Secret
+1. App ID and App Secret
    
-<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/login.png?raw=true" alt="login" width="400"/>
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/login.png?raw=true" alt="login" width="300"/>
 
 2. Home Page
    
-<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/home.png?raw=true" alt="homepage" width="400"/>
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/home.png?raw=true" alt="homepage" width="300"/>
 
 3. Input Number Page
 
-<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/inputnumber.png?raw=true" alt="inputnumber" width="400"/>
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/inputnumber.png?raw=true" alt="inputnumber" width="300"/>
 
 4. Scan Page
 
-<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scan.png?raw=true" alt="scan" width="400"/>
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scan.png?raw=true" alt="scan" width="300"/>
 
 5. Scan Result Page
 
-<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scanResult.png?raw=true" alt="result" width="400"/>
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scanResult.png?raw=true" alt="result" width="300"/>
 
 6. View Result Page
 
-<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/viewResult.png?raw=true" alt="viewresult" width="400"/>
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/viewResult.png?raw=true" alt="viewresult" width="300"/>
 
 
 ## Installation
