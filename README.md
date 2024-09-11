@@ -17,19 +17,29 @@ Developed the **Rabbit Bill Payment Gateway** application using **Flutter**. The
 - 🔄 **JavaScript to Dart Conversion**: JavaScript code was converted to Dart
 
 ## Screenshots
+Since the company can't disclose the actual API, I created my own API using Python to handle the configuration.<br>
+<dd> 1.App ID and App Secret
+   
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/login.png?raw=true" alt="login" width="400"/>
 
-![Login Page](https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/login.png?raw=true)
+2. Home Page
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/home.png?raw=true" alt="homepage" width="400"/>
 
-https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/home.png?raw=true
+3. Input Number Page
 
-https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/inputnumber.png?raw=true
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/inputnumber.png?raw=true" alt="inputnumber" width="400"/>
 
-https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scan.png?raw=true
+4. Scan Page
 
-https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scanResult.png?raw=true
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scan.png?raw=true" alt="scan" width="400"/>
 
-https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/viewResult.png?raw=true
+5. Scan Result Page
 
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/scanResult.png?raw=true" alt="result" width="400"/>
+
+6. View Result Page
+
+<img src="https://github.com/SetthananP/Rabbit-Bill-Payment-Gateway/blob/main/imagesREADME/viewResult.png?raw=true" alt="viewresult" width="400"/>
 
 
 ## Installation
