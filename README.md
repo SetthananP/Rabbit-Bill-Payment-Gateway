@@ -14,7 +14,7 @@ Developed the **Rabbit Bill Payment Gateway** application using **Flutter**. The
 - 💳 **Bill Payment**: Users can view and pay bills through the app.
 - 🌐 **API Integration**: Fetches data from backend APIs for bill information.
 - 📱 **Cross-platform support**: Android and iOS devices.
-- 🔄 **JavaScript to Dart Conversion**: JavaScript code was converted to Dart
+- 🔄 **TypeScript to Dart Conversion**: Typescript code was converted to Dart
 
 ## Screenshots
 Since the company can't disclose the actual API, I created my own API using Python to handle the configuration.<br>
